@@ -1,8 +1,17 @@
-# React + Vite
+# linkedin_cl
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React/Vite front-end experiment for a LinkedIn-style client interface and modern component workflow.
 
-Currently, two official plugins are available:
+## What It Does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Uses Vite as a lightweight React development setup.
+- Serves as a UI sandbox for social/professional network interface ideas.
+- Captures front-end project structure and build workflow practice.
+
+## Tech
+
+React, Vite, JavaScript, front-end development.
+
+## Status
+
+Frontend learning and UI experimentation repository.
